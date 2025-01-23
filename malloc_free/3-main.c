@@ -50,3 +50,4 @@ int main(void)
     print_grid(grid, 6, 4);
     return (0);
 }
+mkdi
